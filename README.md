@@ -1,1 +1,2 @@
 # respuesta_entrevista
+REALIZAR UNA LANDING EN HTML, QUE SEA CAPÁZ DE TOMAR NOMBRE Y RUT, Y QUE ME ENTREGUE LOS DATOS DE: "TU USUARIO ES" Y "CONTRASEÑA", EN DONDE EL USUARIO SERÁ DEL TIPO "Nombre-568-5" Primera letra del nombre en mayuscula, el resto en minúscula, con un ion y poner los últimos 3 dígitos antes del ion, mas el ion con su digito verificador. contraseña, rut sin ion# aterrizaje

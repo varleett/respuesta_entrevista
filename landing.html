@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usuario y contraseña</title>
+</head>
+<body>
+    <h2>Usuario y contraseña</h2>
+    <form id="userForm">
+        <div class="form-group">
+            <label for="name">Nombre:</label>
+            <input type="text" id="name" required>
+        </div>
+        <div class="form-group">
+            <label for="rut">RUT:</label>
+            <input type="text" id="rut" required>
+        </div>
+        <button type="submit">Generar credenciales</button>
+    </form>
+
+    <div id="result">
+        <h3>Sus credenciales</h3>
+        <p>Su usuario es: <span id="username"></p>
+        <p>Contraseña: <span id="password"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
